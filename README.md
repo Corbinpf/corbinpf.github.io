@@ -3,21 +3,16 @@
 
 <html lang="en">
 <!--The html element is called the root element because it contains all the elements in the document.-->
-
 <head>
     <!--The head element contains elements that pertain to the document that are not rendered as part of the content, such as its title, style sheets, scripts, and metadata.-->
-
     <meta charset="utf-8" />
     <!--Meta tag for defining the character in the document.-->
-
-    <title>Star Fish</title>
-    <!--Title is used for the document name, and this is displayed in the title bar.-->
+    
 </head>
 <!--It's a head closing tag-->
-
 <!--The body element contains everything that we want to show up in the browser window.-->
  
- corbinpf.github.io
+ 
 # horticulture
  <b> Horticulture
 Horticulture is the branch of agriculture that deals with the art, science, technology, and business of plant cultivation. It includes the cultivation of fruits, vegetables, nuts, seeds, herbs, sprouts, mushrooms, algae, flowers, seaweeds and non-food crops such as grass and ornamental trees and plants. It also includes plant conservation, landscape restoration, landscape and garden design, construction, and maintenance, and arboriculture, ornamental trees and lawns.[1][2][3]

@@ -1,2 +1,3 @@
-# corbinpf.github.io
-website about gardening and horticulture!!
+corbinpf.github.io
+# learn about gardening and horticulture!!
+By corbin furrey

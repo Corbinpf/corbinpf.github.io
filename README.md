@@ -1,4 +1,21 @@
-!<doctype> <file type> html
+<!DOCTYPE html>
+<!--This DOCTYPE identifies the document as written in HTML5.-->
+
+<html lang="en">
+<!--The html element is called the root element because it contains all the elements in the document.-->
+
+<head>
+    <!--The head element contains elements that pertain to the document that are not rendered as part of the content, such as its title, style sheets, scripts, and metadata.-->
+
+    <meta charset="utf-8" />
+    <!--Meta tag for defining the character in the document.-->
+
+    <title>Star Fish</title>
+    <!--Title is used for the document name, and this is displayed in the title bar.-->
+</head>
+<!--It's a head closing tag-->
+
+<!--The body element contains everything that we want to show up in the browser window.-->
  
 corbinpf.github.io
 # horticulture

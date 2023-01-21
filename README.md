@@ -17,9 +17,9 @@
 
 <!--The body element contains everything that we want to show up in the browser window.-->
  
-<b> corbinpf.github.io
+ corbinpf.github.io
 # horticulture
- Horticulture
+ <b> Horticulture
 Horticulture is the branch of agriculture that deals with the art, science, technology, and business of plant cultivation. It includes the cultivation of fruits, vegetables, nuts, seeds, herbs, sprouts, mushrooms, algae, flowers, seaweeds and non-food crops such as grass and ornamental trees and plants. It also includes plant conservation, landscape restoration, landscape and garden design, construction, and maintenance, and arboriculture, ornamental trees and lawns.[1][2][3]
 
 In anthropology, horticulture refers to a subsistence strategy characterized by the small-scale, non-industrial cultivation of plants for food.[4] Horticulture involves the use of hand tools such as digging sticks, hoes and carrying baskets.[5] In contrast to horticulture, agriculture is a more intensive strategy involving the use of plowing, animal traction and complex techniques of irrigation and soil management.[6]

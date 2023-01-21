@@ -17,7 +17,7 @@
 
 <!--The body element contains everything that we want to show up in the browser window.-->
  
-corbinpf.github.io
+<b> corbinpf.github.io
 # horticulture
  Horticulture
 Horticulture is the branch of agriculture that deals with the art, science, technology, and business of plant cultivation. It includes the cultivation of fruits, vegetables, nuts, seeds, herbs, sprouts, mushrooms, algae, flowers, seaweeds and non-food crops such as grass and ornamental trees and plants. It also includes plant conservation, landscape restoration, landscape and garden design, construction, and maintenance, and arboriculture, ornamental trees and lawns.[1][2][3]
@@ -26,8 +26,7 @@ In anthropology, horticulture refers to a subsistence strategy characterized by 
 
 The study and practice of horticulture have been traced back thousands of years. Horticulture contributed to the transition from nomadic human communities to sedentary, or semi-sedentary, horticultural communities.[7] Horticulture is divided into several categories which focus on the cultivation and processing of different types of plants and food items for specific purposes. In order to conserve the science of horticulture, multiple organizations worldwide educate, encourage, and promote the advancement of horticulture. Some notable horticulturists include Luca Ghini and Luther Burbank.
 
-Definition
-
+## Definition
 
 Horticulture, from Latin hortus meaning garden and colere meaning to cultivate,[8] focuses on the use of small plots,[9] in contrast to agronomy which involves intensive crop farming and large-scale field crop production of grains and forages or forestry involving forest trees and products derived from them.[10] It deals with garden crops such as ornamental plants grown for their appearance, fruits and vegetable and spices grown for their food value, and medicinal plants.[10]
 
@@ -150,4 +149,5 @@ Care is required to reduce damages and losses to horticultural crops during harv
 This is the process of harvesting horticultural crops by hand. Fruits, such as apples, pears and peaches, can be harvested by clippers
 Sanitation: Harvest bags, crates, clippers and other equipment must be cleaned prior to harvest.[41]
 ## Emerging technology
-Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR/Cas9) has recently gained recognition as a highly efficient, simplified, precise, and low cost method of altering the genomes of species.[42] Since 2013, CRISPR has been used to enhance a variety of species of grains, fruits, and vegetables. Crops are modified to increase their resistance to biotic and abiotic stressors such as parasites, disease, and drought as well as increase yield, nutrition, and flavour.[43] Additionally, CRISPR has been used to edit undesirable traits, for example, reducing the browning and production of toxic and bitter substances of potatoes. CRISPR has also been employed to solve issues of low pollination rates and low fruit yield common in greenhouses.
+Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR/Cas9) has recently gained recognition as a highly efficient, simplified, precise, and low cost method of altering the genomes of species.[42] Since 2013, CRISPR has been used to enhance a variety of species of grains, fruits, and vegetables. Crops are modified to increase their resistance to biotic and abiotic stressors such as parasites, disease, and drought as well as increase yield, nutrition, and flavour.[43] Additionally, CRISPR has been used to edit undesirable traits, for example, reducing the browning and production of toxic and bitter substances of potatoes. CRISPR has also been employed to solve issues of low pollination rates and low fruit yield common in greenhouses.<b>
+
